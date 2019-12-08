@@ -15,11 +15,11 @@ ___
 
 ## Red Green Refactor TDD Methodology
 
-:x: **Red** - Write a test. The test fails because you haven't written any code yet.
+:x: **Red** - Write a test.
 
-:white_check_mark: **Green** - Write code that passes your text (and all previous tests). Don't be clever, just write code so your tests pass.
+:white_check_mark: **Green** - Write only the code that passes the test (and all previous tests).
 
-:recycle: **Refactor** - There are many reason to refactor, such as efficency, code style, and readibility. Make sure your code still passes your tests as you refactor.
+:recycle: **Refactor** - Refactor for efficency and readibility. Ensure code passes tests during and after refactor.
 
 
 ___
